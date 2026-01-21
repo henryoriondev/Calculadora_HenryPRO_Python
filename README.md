@@ -33,7 +33,7 @@ cd Calculadora_HenryPRO_Python
 
 ``` bash
 
-python calculadora.py
+python Calculadora_HenryPRO.py
 
 ```
 ## Exemplo de Uso
