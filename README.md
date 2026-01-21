@@ -23,8 +23,9 @@ Feita com carinho em janeiro de 2026, durante uma madrugada produtiva às 3h da 
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-henry-pro.git
-cd calculadora-henry-pro
+git clone https://github.com/henryoriondev/Calculadora_HenryPRO_Python.git
+cd Calculadora_HenryPRO_Python
+
 
 ```
 
